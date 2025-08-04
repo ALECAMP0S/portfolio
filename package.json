@@ -1,8 +1,8 @@
 {
   "name": "portfolio-alejandro",
-  "homepage": "https://ALECAMP0S.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ALECAMP0S.github.io/portfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
